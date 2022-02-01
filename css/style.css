@@ -1,0 +1,57 @@
+.format-text {
+    color: #ff0000;
+    font-weight: 700;
+}
+
+.format-text p:last-child {
+    font-weight: 400;
+    font-style: italic;
+}
+
+.nav-one a{
+    display: table;
+    color: #0000ff;
+}
+
+.list-one, .list-one a {
+    color: #0000ff;
+}
+
+.list-two {
+    color: #ff0000;
+}
+
+.div-table {
+    width: max-content;
+    border: 2px solid #ff0000;
+    border-radius: 5px;
+}
+
+.table {
+    color: #ff0000;
+    border-color: #ff0000;
+}
+
+.img-table {
+    width: 100px;
+    height: auto;
+}
+
+.punktir {
+    border: 1px solid #808080;
+    width: 13%;
+}
+
+.nav-two a{
+    display: table;
+    color: #808080;
+}
+
+.nav-two a:first-child{
+    color: #ff0000;
+}
+
+.nav-two a:last-child{
+    color: #0000ff;
+    font-size: 14px;
+}
